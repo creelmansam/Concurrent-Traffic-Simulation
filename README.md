@@ -1,3 +1,5 @@
+This project was created for the Udacity C++ Nanodegree program. The original ReadMe file is below.
+
 # CPPND: Program a Concurrent Traffic Simulation
 
 <img src="data/traffic_simulation.gif"/>
